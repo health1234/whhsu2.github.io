@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About our team
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
