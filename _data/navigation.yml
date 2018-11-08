@@ -1,7 +1,7 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
-
 - title: Data Source
   url: https://www.kaggle.com/GoogleNewsLab/health-searches-us-county/home
+
+- title: Theme Setup
+  url: /theme-setup/
