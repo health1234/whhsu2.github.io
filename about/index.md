@@ -14,19 +14,21 @@ modified: 2016-02-01
 
 ## Ruofan Bie
 
-education: Harvard University
+Education: Harvard University
 
 ---
 
 ## Kangli Wu
 
-education: Harvard University
+Education: Harvard University
 
 ---
 
 ## Weihung Hsu
 
-education: Harvard University
+Education: Harvard University
+LinkedIn: https://www.linkedin.com/in/morris-hsu-657307bb/
+email: morris754@gmail.com
 
 ---
 
