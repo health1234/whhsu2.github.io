@@ -27,11 +27,11 @@ Education: Harvard University
 ## Weihung Hsu
 
 
-({{ site.url }}/images/morris.JPG)
+![Morris]({{ site.url }}/images/morris.JPG)
 
 Education: Harvard University  
-LinkedIn: https://www.linkedin.com/in/morris-hsu-657307bb/  
 email: morris754@gmail.com  
+[LinkedIn] https://www.linkedin.com/in/morris-hsu-657307bb/   
 
 ---
 
