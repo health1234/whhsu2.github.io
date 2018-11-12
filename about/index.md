@@ -8,15 +8,26 @@ modified: 2016-02-01
 ---
 
 
+# Team members
 
+---
 
+## Ruofan Bie
 
+education: Harvard University
+---
 
+## Kangli Wu
 
+education: Harvard University
 
+---
 
+## Weihung Hsu
 
+education: Harvard University
 
+---
 
 
 
