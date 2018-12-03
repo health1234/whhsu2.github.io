@@ -4,7 +4,7 @@ title: About our team
 image:
   feature: abstract-5.jpg
 comments: false
-read_time: true
+read_time: false
 modified: 2016-02-01
 ---
 
