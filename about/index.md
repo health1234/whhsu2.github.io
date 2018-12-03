@@ -17,7 +17,7 @@ modified: 2016-02-01
 <img align = "left" src="{{ site.url }}/images/Ruofan.jpg"  width="200" height="200">
 
 Education: Harvard University
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ---
 
@@ -25,7 +25,7 @@ Education: Harvard University
 <img align = "left" src="{{ site.url }}/images/Kangli.jpg"  width="200" height="200">
 
 Education: Harvard University
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 
@@ -33,16 +33,12 @@ Education: Harvard University
 
 ## Weihung Hsu
 
-```
 <img align="left" src="{{ site.url }}/images/morris.JPG"  width="200" height="200">
 Education: Harvard University  
 email: morris754@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/morris-hsu-657307bb/)
-```
 
-
-
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 
