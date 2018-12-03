@@ -14,7 +14,7 @@ modified: 2016-02-01
 
 ## Ruofan Bie
 
-<img src="{{ site.url }}/images/Ruofan.jpg"  width="200" height="200">
+<img align = "left" src="{{ site.url }}/images/Ruofan.jpg"  width="200" height="200">
 
 Education: Harvard University
 
