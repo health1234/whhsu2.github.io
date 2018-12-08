@@ -272,7 +272,7 @@ header .entry-meta {
 
 	.entry-content {
 		margin: 40px 2px 20px 2px;
-		padding: 1px 1px;
+		padding: 15px 20px;
 		background-color: #fff;
 		box-shadow: 0 0 0 0, 0 6px 12px rgba(#000,0.1);
 		border-radius: 3px;
@@ -286,7 +286,7 @@ header .entry-meta {
 		@media #{$large} {
 			max-width: 800px;
 			margin: 50px auto 30px auto;
-			padding: 50px 80px;
+			padding: 30px 30px;
 
 			> p:first-child {
 				@include font-size(20);
