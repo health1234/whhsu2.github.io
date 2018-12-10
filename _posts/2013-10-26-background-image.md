@@ -1,21 +1,15 @@
 ---
 layout: post
-title: Post with a Background Image
-description: "Sample post with a background image CSS override."
+title: Motivation
+description: "Motivation"
 tags: [sample post]
 image:
   background: triangular.png
 ---
 
-Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
+What would you do when you’ve been having this weird headache intermittently for a week? Would you directly go to a doctor? Guess the answer is the same for most of us: we google it first!
 
-```yaml
-image:
-  background: filename.png
-```
+This brings us to wonder what google health search trends are telling us. Are people generally becoming more aware of health conditions and health risks? How does search interest for top health issues change over time? Are there huge differences in heath concerns between states?
 
-This little bit of YAML makes the assumption that your background image asset is in the `/images` folder. If you place it somewhere else or are hotlinking from the web, just include the full http(s):// URL. Either way you should have a background image that is tiled.
+We believe google searches offer much more information than symptom description or  illness diagnose. Thus, we decided to take a further look into the search numbers.
 
-If you want to set a background image for the entire site just add `background: filename.png` to your `_config.yml` and BOOM --- background images on every page!
-
-<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://subtlepatterns.com" class="notice">Background images from <span property="dct:title">Subtle Patterns</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://subtlepatterns.com">Subtle Patterns</a>) / <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
