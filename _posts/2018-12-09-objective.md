@@ -3,9 +3,6 @@ layout: post
 title: Objectives
 description: "project objectives"
 tags: [sample post, code, highlighting]
-image:
-  path: /images/abstract-10.jpg
-  feature: abstract-10.jpg
 ---
 
 Through this project, we want to answer the following questions:
