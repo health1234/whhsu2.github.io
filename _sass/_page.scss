@@ -462,7 +462,7 @@ header .entry-meta {
 		}
 
 		@media #{$large} {
-			max-width: 800px;
+			max-width: 1000px;
 			margin-top: 50px;
 			margin-left: auto;
 			margin-right: auto;
@@ -502,8 +502,8 @@ header .entry-meta {
 
 	@media #{$large} {
 		margin-top: -50px;
-		margin-left: -50px;
-		margin-right: -50px;
+		margin-left: -80px;
+		margin-right: -80px;
 		margin-bottom: 20px;
 	}
 
