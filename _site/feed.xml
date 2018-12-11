@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-11T18:21:43-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dr.Google ?</title><subtitle>Describe your website here.</subtitle><entry><title type="html">Motivation</title><link href="http://localhost:4000/motivation/" rel="alternate" type="text/html" title="Motivation" /><published>2018-12-10T00:00:00-05:00</published><updated>2018-12-10T00:00:00-05:00</updated><id>http://localhost:4000/motivation</id><content type="html" xml:base="http://localhost:4000/motivation/">&lt;html&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-11T18:28:44-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dr.Google ?</title><subtitle>Describe your website here.</subtitle><entry><title type="html">Motivation</title><link href="http://localhost:4000/motivation/" rel="alternate" type="text/html" title="Motivation" /><published>2018-12-10T00:00:00-05:00</published><updated>2018-12-10T00:00:00-05:00</updated><id>http://localhost:4000/motivation</id><content type="html" xml:base="http://localhost:4000/motivation/">&lt;html&gt;
 &lt;head&gt;
 &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot; /&gt;
 &lt;style&gt;
@@ -107,19 +107,19 @@ img {vertical-align: middle;}
 
 &lt;div class=&quot;mySlides fade&quot;&gt;
   &lt;div class=&quot;numbertext&quot;&gt;1 / 3&lt;/div&gt;
-  &lt;img src=&quot;http://localhost:4000/slides/my-pics1/pic1.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/images/abstract-10.jpg&quot; style=&quot;width:100%&quot; /&gt;
   &lt;div class=&quot;text&quot;&gt;Caption Text&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;mySlides fade&quot;&gt;
   &lt;div class=&quot;numbertext&quot;&gt;2 / 3&lt;/div&gt;
-  &lt;img src=&quot;http://localhost:4000/slides/my-pics1/pic2.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/images/abstract-11.jpg&quot; style=&quot;width:100%&quot; /&gt;
   &lt;div class=&quot;text&quot;&gt;Caption Two&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;mySlides fade&quot;&gt;
   &lt;div class=&quot;numbertext&quot;&gt;3 / 3&lt;/div&gt;
-  &lt;img src=&quot;http://localhost:4000/slides/my-pics1/pic3.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/images/abstract-12.jpg&quot; style=&quot;width:100%&quot; /&gt;
   &lt;div class=&quot;text&quot;&gt;Caption Three&lt;/div&gt;
 &lt;/div&gt;
 

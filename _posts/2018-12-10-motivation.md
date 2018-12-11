@@ -116,19 +116,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="{{ site.url }}/slides/my-pics1/pic1.jpg" style="width:100%">
+  <img src="{{ site.url }}/images/abstract-10.jpg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="{{ site.url }}/slides/my-pics1/pic2.jpg" style="width:100%">
+  <img src="{{ site.url }}/images/abstract-11.jpg" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="{{ site.url }}/slides/my-pics1/pic3.jpg" style="width:100%">
+  <img src="{{ site.url }}/images/abstract-12.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
